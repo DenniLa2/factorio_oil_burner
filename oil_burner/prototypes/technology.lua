@@ -26,7 +26,7 @@ data:extend({
                 {"logistic-science-pack", 1},
                 {"chemical-science-pack", 1}
                 },
-            time = 15
+            time = 10
             },
         order = "d-b"
     }
